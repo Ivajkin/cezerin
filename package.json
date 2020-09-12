@@ -75,7 +75,7 @@
     "mini-css-extract-plugin": "^0.4.1",
     "moment": "^2.22.2",
     "mongodb": "^3.1.1",
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^2.6.1",
     "node-sass": "^4.9.2",
     "nodemailer": "^4.6.7",
     "nodemailer-smtp-transport": "^2.7.4",
