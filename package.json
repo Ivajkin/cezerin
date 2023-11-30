@@ -76,7 +76,7 @@
     "moment": "^2.22.2",
     "mongodb": "^3.1.1",
     "node-fetch": "^2.1.2",
-    "node-sass": "^4.9.2",
+    "node-sass": "^7.0.2",
     "nodemailer": "^4.6.7",
     "nodemailer-smtp-transport": "^2.7.4",
     "query-string": "^6.1.0",
@@ -101,7 +101,7 @@
     "slug": "^0.9.1",
     "theme": "file:theme",
     "ua-parser-js": "^0.7.18",
-    "webpack": "^4.16.0",
+    "webpack": "^4.26.0",
     "webpack-cli": "^3.0.8",
     "winston": "^3.0.0",
     "ws": "^5.2.2"
